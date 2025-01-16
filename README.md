@@ -3,7 +3,7 @@ Automating Python Code Generation with Amazon Bedrock's Claude Model using Sagem
 
 As a Machine Learning Engineer at Valtara, you are tasked with automating code generation using AI models. You will leverage Amazon Bedrock's Claude model to generate Python code for analyzing sales data from a CSV file. The goal is to create a system that automates code generation, ensuring the generated code is syntactically correct, optimized, and functional, reducing manual coding efforts and improving efficiency in developing data analysis scripts.
 
-Amzon Bedrock In SDLC
+Amazon Bedrock In SDLC
 
 <img width="813" alt="Screenshot 2025-01-11 at 17 00 40" src="https://github.com/user-attachments/assets/ff1b398c-c18d-47df-8787-ebc079651b07" />
 
