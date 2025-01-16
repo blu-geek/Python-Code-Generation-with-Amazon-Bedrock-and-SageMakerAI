@@ -25,8 +25,7 @@ Follow the guide to set up a Jupyter Notebook environment in SageMaker Studio.
 - Access SageMaker Studio:
 Open SageMaker Studio and launch a terminal.
 - Clone the Repository:
-Run the following command to clone the required GitHub repository:
-git clone -b Code https://github.com/k21academyuk/AWS-GenAI_AIML.git
+Run the following command to clone the stated GitHub repository within the lab:
 - Navigate to the Folder:
 Enter the cloned directory for further setup.
 
